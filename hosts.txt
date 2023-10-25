@@ -1,4 +1,6 @@
 216.58.220.110 www.youtube.com
+216.58.220.110 www.m.youtube.com
+216.58.220.110 m.youtube.com
 216.58.212.150 i.ytimg.com
 173.194.222.132 yt3.ggpht.com
 
